@@ -30,4 +30,4 @@ The Cnake adalah implementasi sederhana dari permainan klasik **Snake** yang dim
 4. Kompilasi kode menggunakan perintah berikut:
 
    ```bash
-   gcc -o cnake cnake.c
+   gcc -o The-Cnake.c
